@@ -15,8 +15,8 @@ Die Ordnerstruktur für den gesammten Workshop ist immer folgende:
 
 ## Aufgabe / Ziel
 
-Das Ziel von diesem ersten Kapitel soll sein sich einen ersten Eindruck von dem PaaS Dienst App Services zu machen.
-Gewonnen fähigkeiten sind:
+Das Ziel von diesem ersten Kapitel soll sein, sich einen ersten Eindruck von dem PaaS Dienst App Services zu machen.
+Gewonnen Fähigkeiten sind:
 
    - [checkbox:unchecked] Unterschied zwischen App Service Plan und WebApp
    - [checkbox:unchecked] Die verschieden SKU's sollten klar sein
