@@ -10,7 +10,8 @@ Die Ordnerstruktur für den gesammten Workshop ist immer folgende:
    - src // hier liegt die Beispielanwendung die für das Chapter betrachtet werden soll
    - infra // hier liegen die ARM-Templates um eine Umgebung bereitzustellen
    - Readme.md // hier ist die Aufgabe und das grobe Ziel von dem Chapter beschrieben
-   - Chapter_x.sln // das ist die Projekt Datei die Optional im Visual Studio ge�ffnet werden kann.
+   - Chapter_x.sln // das ist die Projekt Datei die Optional im Visual Studio geöffnet werden kann.
+   - global.json // das ist eine Datei die zu dem dotnet code in src gehört und diesen beeinflusst. Spielt keine Rolle für die Workshops.
 
 ## Aufgabe / Ziel
 
