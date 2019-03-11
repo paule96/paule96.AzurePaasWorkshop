@@ -94,7 +94,7 @@
         </ul>
     </div>
 </div>
-<div>
+<div class="row">
     <form method="post">
         @if (!String.IsNullOrWhiteSpace(Model.UnUsedCode))
         {
@@ -111,7 +111,7 @@
 </div>
 @if (Model.Admin)
 {
-<div>
+<div class="row">
     <form method="post">
         <div>Passes: </div>
         @Html.EditorFor(m => m.PassesList)
