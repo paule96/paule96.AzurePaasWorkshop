@@ -8,7 +8,7 @@ Das Ziel von diesem Kapitel soll sein, ein grundlegendes Verständnis dafür zu 
 
 Gewonnen fähigkeiten sind:
 
-   - [checkbox:unchecked] Queue-Arten und deren Einsatzzwecke sind bekannt
-   - [checkbox:unchecked] Verstehen von Dead Letter Queues
-   - [checkbox:unchecked] Einsatzszenarios für Azure Event Grid sind verstanden
+   - [ ] Queue-Arten und deren Einsatzzwecke sind bekannt
+   - [ ] Verstehen von Dead Letter Queues
+   - [ ] Einsatzszenarios für Azure Event Grid sind verstanden
 
