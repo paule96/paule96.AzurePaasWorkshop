@@ -11,4 +11,4 @@ Gewonnen fähigkeiten sind:
    - [checkbox:unchecked] Queue-Arten und deren Einsatzzwecke sind bekannt
    - [checkbox:unchecked] Verstehen von Dead Letter Queues
    - [checkbox:unchecked] Einsatzszenarios für Azure Event Grid sind verstanden
-   - [checkbox:unchecked] 
+
