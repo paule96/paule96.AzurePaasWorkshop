@@ -2,7 +2,7 @@
 
 > App Services for all Websites / APIs
 
-## Projekt�bersicht
+## Projektübersicht
 
 Die Ordnerstruktur für den gesammten Workshop ist immer folgende:
 
@@ -18,6 +18,6 @@ Die Ordnerstruktur für den gesammten Workshop ist immer folgende:
 Das Ziel von diesem ersten Kapitel soll sein, sich einen ersten Eindruck von dem PaaS Dienst App Services zu machen.
 Gewonnen Fähigkeiten sind:
 
-   - [checkbox:unchecked] Unterschied zwischen App Service Plan und WebApp
-   - [checkbox:unchecked] Die verschieden SKU's sollten klar sein
-   - [checkbox:unchecked] Es sind die verschiedenen Wege erörtert eine App zu deployen
+   - [ ] Unterschied zwischen App Service Plan und WebApp
+   - [ ] Die verschieden SKU's sollten klar sein
+   - [ ] Es sind die verschiedenen Wege erörtert eine App zu deployen

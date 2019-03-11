@@ -9,7 +9,7 @@
 Das Ziel von diesem Kapitel soll sein, sich mit dem Monitoring für App Services zu befassen.
 Gewonnen fähigkeiten sind:
 
-   - [checkbox:unchecked] Metriken und die Limits dieser sind bekannt.
-   - [checkbox:unchecked] Alerts in Azure definieren.
-   - [checkbox:unchecked] App Services Lösungsvorgehen bei Störung ist bekannt
-   - [checkbox:unchecked] Das prinzip automatischer Entstörung ist bekannt.
+   - [ ] Metriken und die Limits dieser sind bekannt.
+   - [ ] Alerts in Azure definieren.
+   - [ ] App Services Lösungsvorgehen bei Störung ist bekannt
+   - [ ] Das prinzip automatischer Entstörung ist bekannt.
