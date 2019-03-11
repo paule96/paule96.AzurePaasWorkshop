@@ -1,0 +1,3 @@
+## Parameters file ##
+WorkshopMeshFrontend_cpu: 0.5
+WorkshopMeshFrontend_ingressport: 8080

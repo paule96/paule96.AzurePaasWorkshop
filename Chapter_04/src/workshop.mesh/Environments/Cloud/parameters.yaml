@@ -1,0 +1,3 @@
+## Parameters file ##
+WorkshopMeshFrontend_cpu: 1
+WorkshopMeshFrontend_ingressport: 80

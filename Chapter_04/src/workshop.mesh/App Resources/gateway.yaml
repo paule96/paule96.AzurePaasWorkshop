@@ -1,0 +1,16 @@
+gateway:
+  schemaVersion: 1.0.0-preview2
+  name: workshopmeshGateway
+  properties:
+    description: workshopmesh Gateway Resource
+    sourceNetwork:
+      name: Open
+    destinationNetwork:
+      name: workshopmeshNetwork
+    tcp:
+      - name: WorkshopMeshFrontendTCP
+        port: "[parameters('WorkshopMeshFrontend_ingressport')]"
+        destination:
+          applicationName: workshopmesh
+          serviceName: WorkshopMeshFrontend
+          endpointName: WorkshopMeshFrontendListener

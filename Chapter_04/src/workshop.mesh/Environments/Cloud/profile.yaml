@@ -1,0 +1,18 @@
+## Visual Studio SFApp Publish Profile ##
+vsSFAppPublishProfile:
+  schemaVersion: 1.0.0-preview2
+  resourceGroupName: workshop.sfmesh2
+  subscription:
+    id: a3eb6c54-da65-4bdb-b25a-808d78a1bdb1
+    name: Visual Studio Enterprise mit MSDN
+    tenant: &o0
+      id: e981dcaf-9197-477f-bd06-0e572b0b3347
+      uniqueId: 49fe016c-b016-4662-8b78-41e9a2374fc0
+  location:
+    name: westeurope
+    displayName: West Europe
+  containerRegistry:
+    serverName: sfmeshcontainerregistry.azurecr.io
+    userName: sfMeshContainerRegistry
+    resourceId: /subscriptions/a3eb6c54-da65-4bdb-b25a-808d78a1bdb1/resourceGroups/workshop.sfmesh2/providers/Microsoft.ContainerRegistry/registries/sfMeshContainerRegistry
+    tenant: *o0
